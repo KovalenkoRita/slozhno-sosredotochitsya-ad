@@ -1,1 +1,1 @@
-https://github.com/KovalenkoRita/slozhno-sosredotochitsya-ad#
+https://github.com/KovalenkoRita/slozhno-sosredotochitsya-ad
