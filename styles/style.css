@@ -158,7 +158,7 @@
   outline: none;
 }
 
-.link-deco:focus {
+.link-deco:focus-visible {
   outline: thin solid var(--accent-color);
 }
 
